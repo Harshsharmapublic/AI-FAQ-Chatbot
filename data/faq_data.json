@@ -1,0 +1,142 @@
+[
+  {
+    "id": "faq_001",
+    "category": "Admissions",
+    "question": "What is the admission fee?",
+    "answer": "The admission fee is ₹50,000 for the first year, which includes registration, library, and laboratory charges.",
+    "tags": ["fee", "admission", "cost", "payment"]
+  },
+  {
+    "id": "faq_002",
+    "category": "Admissions",
+    "question": "What are the eligibility criteria for admission?",
+    "answer": "Students must have completed 10+2 with a minimum of 60% marks in Physics, Chemistry, and Mathematics (PCM) from a recognized board.",
+    "tags": ["eligibility", "criteria", "marks", "percentage", "qualification"]
+  },
+  {
+    "id": "faq_003",
+    "category": "Admissions",
+    "question": "What is the last date to apply?",
+    "answer": "The last date for application submission is July 31st for the upcoming academic session. Late applications may be considered subject to seat availability.",
+    "tags": ["deadline", "last date", "apply", "application"]
+  },
+  {
+    "id": "faq_004",
+    "category": "Academics",
+    "question": "What courses are offered at the institution?",
+    "answer": "We offer B.Tech in Computer Science, Electronics, Mechanical, Civil, and Chemical Engineering. We also offer MBA, MCA, and M.Tech programs.",
+    "tags": ["courses", "programs", "branches", "departments", "degree"]
+  },
+  {
+    "id": "faq_005",
+    "category": "Academics",
+    "question": "What is the duration of the B.Tech program?",
+    "answer": "The B.Tech program is a 4-year full-time undergraduate course divided into 8 semesters.",
+    "tags": ["duration", "years", "btech", "undergraduate", "semester"]
+  },
+  {
+    "id": "faq_006",
+    "category": "Hostel",
+    "question": "What is the hostel fee?",
+    "answer": "The hostel fee is ₹80,000 per year for a double-sharing room and ₹1,20,000 per year for a single-occupancy room. The fee includes meals, electricity, and Wi-Fi.",
+    "tags": ["hostel", "accommodation", "room", "boarding", "fee"]
+  },
+  {
+    "id": "faq_007",
+    "category": "Hostel",
+    "question": "Is hostel accommodation mandatory?",
+    "answer": "Hostel accommodation is optional. Day scholars can commute from home. However, first-year students from outstation are strongly encouraged to opt for hostel.",
+    "tags": ["hostel", "mandatory", "day scholar", "accommodation"]
+  },
+  {
+    "id": "faq_008",
+    "category": "Scholarships",
+    "question": "Are there any scholarships available?",
+    "answer": "Yes, we offer merit-based scholarships covering up to 100% of tuition fees for top-performing students. Need-based scholarships and government schemes like SC/ST scholarships are also available.",
+    "tags": ["scholarship", "financial aid", "merit", "fee waiver", "free"]
+  },
+  {
+    "id": "faq_009",
+    "category": "Placement",
+    "question": "What is the placement rate?",
+    "answer": "Our institution has a 92% placement rate. The average package is ₹6.5 LPA and the highest package offered last year was ₹42 LPA from a top tech company.",
+    "tags": ["placement", "job", "salary", "package", "recruitment", "career"]
+  },
+  {
+    "id": "faq_010",
+    "category": "Placement",
+    "question": "Which companies visit for campus recruitment?",
+    "answer": "Over 200 companies visit for campus recruitment including TCS, Infosys, Wipro, Accenture, Google, Microsoft, Amazon, and many startups across various sectors.",
+    "tags": ["companies", "recruiters", "campus", "hiring", "placement"]
+  },
+  {
+    "id": "faq_011",
+    "category": "Facilities",
+    "question": "What facilities are available on campus?",
+    "answer": "Campus facilities include a central library with 50,000+ books, sports complex, indoor gymnasium, medical center, canteen, ATM, Wi-Fi across campus, and state-of-the-art labs.",
+    "tags": ["facilities", "campus", "library", "sports", "gym", "wifi", "amenities"]
+  },
+  {
+    "id": "faq_012",
+    "category": "Academics",
+    "question": "What is the attendance requirement?",
+    "answer": "Students must maintain a minimum of 75% attendance in each subject to be eligible to appear for semester examinations.",
+    "tags": ["attendance", "requirement", "minimum", "percentage", "exam eligibility"]
+  },
+  {
+    "id": "faq_013",
+    "category": "Admissions",
+    "question": "Is there an entrance exam for admission?",
+    "answer": "Yes, admission is based on JEE Main scores for B.Tech programs. Some programs also consider GATE scores for postgraduate admissions.",
+    "tags": ["entrance exam", "jee", "gate", "test", "admission process"]
+  },
+  {
+    "id": "faq_014",
+    "category": "Fees",
+    "question": "Can fees be paid in installments?",
+    "answer": "Yes, the fee can be paid in two installments per semester. An education loan facility is also available in tie-up with nationalized banks at subsidized interest rates.",
+    "tags": ["installment", "emi", "payment", "fee", "loan", "bank"]
+  },
+  {
+    "id": "faq_015",
+    "category": "Support",
+    "question": "How can I contact the admissions office?",
+    "answer": "You can reach the admissions office at admissions@institution.edu or call +91-9876543210. Office hours are Monday to Saturday, 9 AM to 5 PM.",
+    "tags": ["contact", "admissions office", "email", "phone", "help", "support"]
+  },
+  {
+    "id": "faq_016",
+    "category": "Academics",
+    "question": "Is there a provision for lateral entry?",
+    "answer": "Yes, students with a 3-year diploma in engineering can apply for lateral entry directly to the 2nd year of B.Tech based on their diploma percentage.",
+    "tags": ["lateral entry", "diploma", "direct admission", "2nd year"]
+  },
+  {
+    "id": "faq_017",
+    "category": "Academics",
+    "question": "What is the grading system used?",
+    "answer": "We follow a 10-point CGPA grading system aligned with UGC guidelines. Each credit is assigned a grade point, and the SGPA/CGPA is calculated each semester.",
+    "tags": ["grading", "cgpa", "sgpa", "marks", "grade", "score"]
+  },
+  {
+    "id": "faq_018",
+    "category": "Facilities",
+    "question": "Is there a transportation facility?",
+    "answer": "Yes, the college provides bus service connecting major parts of the city. Over 20 routes are covered with AC and non-AC buses at nominal monthly charges.",
+    "tags": ["transport", "bus", "shuttle", "commute", "travel", "pick up"]
+  },
+  {
+    "id": "faq_019",
+    "category": "Scholarships",
+    "question": "Is there a scholarship for sports students?",
+    "answer": "Yes, students who have represented their state or national level in sports are eligible for a sports scholarship covering 50% to 100% of the tuition fee.",
+    "tags": ["sports", "scholarship", "athlete", "game", "state level"]
+  },
+  {
+    "id": "faq_020",
+    "category": "Support",
+    "question": "What counseling and mental health support is available?",
+    "answer": "The college has a dedicated Wellness Center with licensed counselors available Monday through Friday. Students can book appointments online or walk-in during office hours.",
+    "tags": ["counseling", "mental health", "wellness", "support", "psychology"]
+  }
+]

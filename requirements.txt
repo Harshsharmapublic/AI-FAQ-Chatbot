@@ -1,0 +1,36 @@
+# ──────────────────────────────────────────────────────────
+# NeuraFAQ - AI-Powered FAQ Chatbot
+# requirements.txt
+# ──────────────────────────────────────────────────────────
+
+# Core Web Framework
+streamlit>=1.35.0
+
+# Machine Learning / NLP
+scikit-learn>=1.4.0
+nltk>=3.8.1
+numpy>=1.26.0
+
+# Data Handling
+pandas>=2.2.0
+
+# Visualization
+plotly>=5.20.0
+
+# PDF Processing
+pypdf>=4.2.0
+
+# Voice: Text-to-Speech (offline, no hardware special requirements)
+pyttsx3>=2.90
+
+# Voice: Speech-to-Text engine
+SpeechRecognition>=3.10.0
+
+# Voice: Audio recording backend (Python 3.14 compatible, replaces PyAudio)
+# sounddevice uses PortAudio under the hood — works on Windows/macOS/Linux
+sounddevice>=0.4.6
+
+# NOTE: PyAudio is NOT required when using sounddevice.
+# If you are on Python <= 3.12, you may optionally install PyAudio:
+#   pip install pyaudio        (macOS/Linux)
+#   pipwin install pyaudio     (Windows, older Python)
