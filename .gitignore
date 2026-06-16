@@ -1,0 +1,5 @@
+__pycache__/
+logs/
+uploads/
+nltk_data/
+*.pyc
